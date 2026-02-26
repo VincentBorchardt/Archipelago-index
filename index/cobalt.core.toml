@@ -1,0 +1,4 @@
+name = "Cobalt Core"
+home = "https://discord.com/channels/731205301247803413/1190007746641272912"
+default_url = "hhttps://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/tag/release/{{version}}/cobalt.core.apworld"
+"1.1.5" = {}
